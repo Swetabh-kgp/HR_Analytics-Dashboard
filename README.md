@@ -32,7 +32,7 @@ The dashboard helps analyze employee data, attrition trends, workforce distribut
 - HR Data Analysis
 
 ## Dashboard Preview
-![HR Analytics Dashboard](screenshots/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
 ## Purpose of the Dashboard
 The purpose of this dashboard is to help HR teams understand employee attrition, workforce patterns, job satisfaction, and department-wise employee trends. It supports better decision-making using clear and interactive visuals.
 ## Key Insights
